@@ -1,0 +1,1 @@
+This repo demonstrates the model application using K-Means clustering algorithm with and without using sklearn
